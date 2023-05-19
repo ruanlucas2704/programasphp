@@ -1,0 +1,1 @@
+print ("Meu nome é Ruan Lucas, e tenho 20 anos");
